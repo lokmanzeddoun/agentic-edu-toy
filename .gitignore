@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+.env
+.agentic_sandbox/
+pfe_documents/
+*.pyc
+dist/
+build/
+*.egg-info/
